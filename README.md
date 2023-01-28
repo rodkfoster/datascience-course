@@ -14,69 +14,51 @@
 
 ## Helpful Links
 
-### <img src="https://pbs.twimg.com/profile_images/1088550061422784513/4C7sYLHU_400x400.jpg" width="20px"> Zoom
-Click here to attend class: [Zoom link](https://generalassembly.zoom.us/j/574946129?pwd=a0JMU2pkdTF0by9WZ1VySm9pRDFGQT09)
-   
-### <img src="https://lh3.googleusercontent.com/CzlsZP3xUHeX3HAGdZ2rL9mK6_C-6T1-YWeBeM8nB3ilmfPSBHCFx4-UbQr8MnQms3d9=w300" width="20px"> Slack
-We'll use Slack for our main class communications platform. Use it anytime you want to share information about the course, discuss lessons, and/or submit projects. Our Slack classroom can be found [here](https://intuitdatasci-pd36206.slack.com/archives/C01139F3UMR).
-
-### Exit Ticket
-We thrive on feedback! Fill this out after each class: [Post-class Exit Ticket](https://bit.ly/ExitTicket-DS-SDG3)
-
 <a id='master'></a>
-## Master Schedule
-
-
-Office Hours: 
-+ Wednesdays 4:30-5:30 w/ John - [sign up here](https://calendly.com/john-d-hazard-general-assembly/15min?month=2020-04&date=2020-04-15)
-+ Thursdays 4:00 - 5:00 w/ Brahm [sign up here](https://calendly.com/ga_br/inuit_ds)
-+ Additional times coordinated through DMs
-
-
-You need to book a timeslot if you plan to attend remote office hours. A calendar booking link will be posted in Slack, and you will receive an invite to join a Zoom call at your scheduled time. You might like to download the Zoom client ahead of time at https://zoom.us/download#client_4meeting
+Support Docs: 
 
 For curated supplemental readings, see our [extra resources ](#resources) for both a self-explore option and targeted readings for each class.
 
 ## Unit 1: Fundamentals
 
-Week | Date (Tuesday) | Class Topic
---- | ---      | ---
-1   | Apr. 21 | [Welcome to Data Science][1-W1]<br>**ISL**: [Ch. 2.1](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-2   | Apr. 28  | [Your Development Environment][1-W2]
-3   | May 5  | [Python Foundations][1-W3]
-4   | May 12  | [Unit 1 Recap & Project Day][PYTHON-PROBLEMS]<br>**Unit 1 Quiz**
+| Class Topic
+| ---
+| [Welcome to Data Science][1-W1]<br>**ISL**: [Ch. 2.1](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+| [Your Development Environment][1-W2]
+| [Python Foundations][1-W3]
+| [Unit 1 Recap & Project Day][PYTHON-PROBLEMS]<br>**Unit 1 Quiz**
 
 ## Unit 2: Working with Data
 
-Week | Date (Tuesday) | Class Topic
---- | ---      | ---
-5   | May 19  | [Exploratory Data Analysis in Pandas][2-W1]<br>**Milestone:** [Unit 1 Project DUE - 11:59pm][P1]
---- | May 26  |  No Class - Memorial Day break
-6   | Jun. 2   | [Data Visualization in Python][2-W3] 
-7   | Jun. 9   | [Statistics in Python][2-W4]<br> 
-8   | Jun. 16  | [Experiments & Hypothesis Testing][2-W2]<br>**Milestone:** [Unit 2 Project DUE][P2]**Milestone:** [Final Project: Project Proposal DUE][P4] 
+| Class Topic
+| ---
+| [Exploratory Data Analysis in Pandas][2-W1]<br>**Milestone:** [Unit 1 Project DUE - 11:59pm][P1]
+|  No Class - Memorial Day break
+| [Data Visualization in Python][2-W3] 
+| [Statistics in Python][2-W4]<br> 
+| [Experiments & Hypothesis Testing][2-W2]<br>**Milestone:** [Unit 2 Project DUE][P2]**Milestone:** [Final Project: Project Proposal DUE][P4] 
 
 
 ## Unit 3: Data Science Modeling
 
 Week | Date (Tuesday) | Class Topic
---- | ---      | ---
-9   | Jun. 23  | [Linear Regression][3-W1]<br>[**ISL**: Ch. 3.1-3, 3.5, 6.1, 6.2](http://faculty.marshall.usc.edu/gareth-james/ISL/) <br>**Unit 2 Quiz**<br>
-10   | Jun. 30  | [Logistic Regression][3-W4]<br>[**ISL**: Ch. 4.1-3 ](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-11  | Jul. 7   | [Train-Test Split & Bias-Variance][3-W2]<br>[**ISL**: Ch. 2.2 ](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-12  | Jul. 14  | [KNN / Classification][3-W3]
-13  | Jul. 21  | [Clustering][4-W1]
-14 | Jul. 28  | [Decision Trees & Random Forests][TREES-FLEX]
-15  | Aug. 4   | [PCA & Anomaly Detection][4-W2]<br>**Milestone:** [Final Project: Initial EDA DUE][P4]<br>**Milestone:** [Unit 3 Project DUE][P3]
+| ---
+| [Linear Regression][3-W1]<br>[**ISL**: Ch. 3.1-3, 3.5, 6.1, 6.2](http://faculty.marshall.usc.edu/gareth-james/ISL/) <br>**Unit 2 Quiz**<br>
+| [Logistic Regression][3-W4]<br>[**ISL**: Ch. 4.1-3 ](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+| [Train-Test Split & Bias-Variance][3-W2]<br>[**ISL**: Ch. 2.2 ](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+| [KNN / Classification][3-W3]
+| [Clustering][4-W1]
+| [Decision Trees & Random Forests][TREES-FLEX]
+| [PCA & Anomaly Detection][4-W2]<br>**Milestone:** [Final Project: Initial EDA DUE][P4]<br>**Milestone:** [Unit 3 Project DUE][P3]
 
 
 ## Unit 4: Data Science Applications
-Week | Date (Tuesday) | Class Topic
---- | ---      | ---
-16  | Aug. 11  | [Intro to Natural Language Processing][4-W3]<br>**Unit 3 Quiz**<br>**Milestone:** Final submission date for EDA and Project
-17  | Aug. 18  | [Intro to Time Series][4-W4]
-18  | Aug. 25  | [Intro to Neural Networks][4-W5]
-19  | Sep. 1   | FLEX Lesson <br>**Unit 4 Quiz**<br>**Milestone:**[Final Project: Sign up for weekly checkup time!][P4]
+| Class Topic
+| ---
+| [Intro to Natural Language Processing][4-W3]<br>**Unit 3 Quiz**<br>**Milestone:** Final submission date for EDA and Project
+| [Intro to Time Series][4-W4]
+| [Intro to Neural Networks][4-W5]
+| FLEX Lesson <br>**Unit 4 Quiz**<br>**Milestone:**[Final Project: Sign up for weekly checkup time!][P4]
 
 ## Capstone Project
 | Class Topic
@@ -163,7 +145,7 @@ For those of you who want to go above and beyond, we’ve also included stretch 
 
 ### Final Project
 
-You'll also complete a [final project](https://git.generalassemb.ly/intuit-ds/final_project), asking you to apply your skills to a business problem of your choice.
+You'll also complete a [final project](), asking you to apply your skills to a business problem of your choice.
 
 The capstone is an opportunity for you to demonstrate your new skills and tackle a pressing issue relevant to your team, division, or organization. You’ll create a hypothesis, analyze internal data, and generate a working model, prototype, solution, or recommendation.
 
@@ -187,11 +169,11 @@ You will get structured guidance and designated time to work throughout the cour
     - Part 3: Solution Prototype
     - Part 4: Presentation
 
-[P1]: https://git.generalassemb.ly/intuit-cohort6/unit-1_project
-[P2]: https://git.generalassemb.ly/intuit-cohort6/unit-2_project
-[P3]: https://git.generalassemb.ly/intuit-cohort6/unit-3_project
-[P4]: https://git.generalassemb.ly/intuit-cohort6/unit-4_project
-[P5]: https://git.generalassemb.ly/intuit-cohort6/final_project
+[P1]: ./projects/unit-1_project
+[P2]: ./projects/unit-2_project
+[P3]: ./projects/unit-3_project
+[P4]: ./projects/unit-4_project
+[P5]: ./projects/final_project
 
 ---
 
