@@ -79,12 +79,12 @@ Week | Date (Tuesday) | Class Topic
 19  | Sep. 1   | FLEX Lesson <br>**Unit 4 Quiz**<br>**Milestone:**[Final Project: Sign up for weekly checkup time!][P4]
 
 ## Capstone Project
-Week | Date (Tuesday) | Class Topic
---- | ---      | ---
-20  | Sep. 8  | Capstone Preparation (Office Hours only)
-21  | Sep. 15   | Capstone Preparation (Office Hours only)
-22  | Sep. 22  | Capstone Preparation (Office Hours only)
-23  | Sep. 29  | [Final Project Presentations][P4]<br>**Milestone:** [Final Project Presentation DUE][P4]
+| Class Topic
+| ---
+| Capstone Preparation (Office Hours only)
+| Capstone Preparation (Office Hours only)
+| Capstone Preparation (Office Hours only)
+| [Final Project Presentations][P4]<br>**Milestone:** [Final Project Presentation DUE][P4]
 
 
 **ISL**: James, Gareth et al. "An Introduction to Statistical Learning." [[PDF](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)]
@@ -119,20 +119,6 @@ Week | Date (Tuesday) | Class Topic
 
 ---
 <a id='team'></a>
-## Your Instructional Team
-
-**Lead Instructor**: 
-+ Steven Longstreet - [Linkedin](https://www.linkedin.com/in/stevenlongstreet/) - steven.longstreet@generalassemb.ly
-
-**Instructional Associates**: 
-+ Brahm Rhodes - [Linkedin](https://www.linkedin.com/in/brhodes0/) - brahm.rhodes@generalassemb.ly
-+ John Hazard - [Linkedin](https://www.linkedin.com/in/jdhazard/) - john.hazard@generalassemb.ly
-
-**Support Team**:
-+ Jenny Morris (Sr. Engagement Manager) - Jenny.Morris@ga.co
-+ Michelle Wengrover (Engagement Manager) - michelle.wengrover@ga.co
-
-
 <a id='course'></a>
 ## Course Overview
 Welcome to our Data Science Fundamentals course! We're building a global community of lifelong learners who are excited about using data to solve real business problems. 
