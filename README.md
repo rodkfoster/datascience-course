@@ -89,33 +89,33 @@ Week | Date (Tuesday) | Class Topic
 
 **ISL**: James, Gareth et al. "An Introduction to Statistical Learning." [[PDF](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)]
 
-[1-W1]: https://git.generalassemb.ly/intuit-cohort6/welcome-to-data-science
-[1-W2]: https://git.generalassemb.ly/intuit-cohort6/your-development-environment
-[1-W3]: https://git.generalassemb.ly/intuit-cohort6/python-foundations
+[1-W1]: ./lessons/welcome-to-data-science/
+[1-W2]: ./lessons/your-development-environment
+[1-W3]: ./lessons/python-foundations
 
-[2-W1]: https://git.generalassemb.ly/intuit-cohort6/eda-with-pandas
-[2-W2]: https://git.generalassemb.ly/intuit-cohort6/experiments-hypothesis-tests
-[2-W3]: https://git.generalassemb.ly/intuit-cohort6/data-visualization-in-python
-[2-W4]: https://git.generalassemb.ly/intuit-cohort6/statistics-in-python
+[2-W1]: ./lessons/eda-with-pandas
+[2-W2]: ./lessons/experiments-hypothesis-tests
+[2-W3]: ./lessons/data-visualization-in-python
+[2-W4]: ./lessons/statistics-in-python
 
-[3-W1]: https://git.generalassemb.ly/intuit-cohort6/linear-regression
-[3-W2]: https://git.generalassemb.ly/intuit-cohort6/train-test-split-and-bias-variance
-[3-W3]: https://git.generalassemb.ly/intuit-cohort6/knn-classification
-[3-W4]: https://git.generalassemb.ly/intuit-cohort6/logistic-regression
+[3-W1]: ./lessons/linear-regression
+[3-W2]: ./lessons/train-test-split-and-bias-variance
+[3-W3]: ./lessons/knn-classification
+[3-W4]: ./lessons/logistic-regression
 
-[4-W1]: https://git.generalassemb.ly/intuit-cohort6/clustering
-[4-W2]: https://git.generalassemb.ly/intuit-cohort6/flex_pca
-[4-W3]: https://git.generalassemb.ly/intuit-cohort6/natural-language-processing
-[4-W4]: https://git.generalassemb.ly/intuit-cohort6/flex_time-series
-[4-W5]: https://git.generalassemb.ly/intuit-cohort6/flex_neural-networks
+[4-W1]: ./lessons/clustering
+[4-W2]: ./lessons/flex_pca
+[4-W3]: ./lessons/natural-language-processing
+[4-W4]: ./lessons/flex_time-series
+[4-W5]: ./lessons/flex_neural-networks
 
-[RECSYS-FLEX]: https://git.generalassemb.ly/intuit-cohort6/flex_recommendation-systems
-[NLP-FLEX]: https://git.generalassemb.ly/intuit-cohort6/natural-language-processing
-[TREES-FLEX]: https://git.generalassemb.ly/intuit-cohort6/flex_decision-trees
-[ETHICS-FLEX]: https://git.generalassemb.ly/intuit-cohort6/flex_ethics
+[RECSYS-FLEX]: ./lessons/flex_recommendation-systems
+[NLP-FLEX]: ./lessons/natural-language-processing
+[TREES-FLEX]: ./lessons/flex_decision-trees
+[ETHICS-FLEX]: ./lessons/flex_ethics
 
-[RESOURCES]: https://git.generalassemb.ly/intuit-cohort6/resources
-[PYTHON-PROBLEMS]: https://git.generalassemb.ly/intuit-cohort6/python-problems
+[RESOURCES]: ./lessons/resources
+[PYTHON-PROBLEMS]: ./lessons/python-problems
 
 ---
 <a id='team'></a>
