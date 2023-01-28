@@ -163,7 +163,7 @@ You will get structured guidance and designated time to work throughout the cour
 1. [Unit Project 1: Python Coding][P1]
 2. [Unit Project 2: Exploratory Data Analysis][P2]
 3. [Unit Project 3: Modeling][P3]
-4. [Final Project: Solve an Intuit Business Problem][P5]
+4. [Final Project: Solve a Business Problem][P5]
     - Part 1: Proposal & Dataset
     - Part 2: Initial EDA
     - Part 3: Solution Prototype
@@ -219,7 +219,7 @@ If you have been enjoying the practice problems at the beginning of some classes
 
 <a id='resources'></a>
 
-Many GA instructors collaborate to put together a [master resource site](https://git.generalassemb.ly/intuit-cohort6/Resources). If you have trouble navigating it - let one of the Instructional Team know!
+Many GA instructors collaborate to put together a [master resource site](./resources). If you have trouble navigating it - let one of the Instructional Team know!
 
 
 From time to time we'll add additional resources based on your wants/needs. To get us started I included a few for the first 3 weeks.
