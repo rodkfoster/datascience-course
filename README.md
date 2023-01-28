@@ -41,7 +41,7 @@ For curated supplemental readings, see our [extra resources ](#resources) for bo
 
 ## Unit 3: Data Science Modeling
 
-Week | Date (Tuesday) | Class Topic
+| Class Topic
 | ---
 | [Linear Regression][3-W1]<br>[**ISL**: Ch. 3.1-3, 3.5, 6.1, 6.2](http://faculty.marshall.usc.edu/gareth-james/ISL/) <br>**Unit 2 Quiz**<br>
 | [Logistic Regression][3-W4]<br>[**ISL**: Ch. 4.1-3 ](http://faculty.marshall.usc.edu/gareth-james/ISL/)
