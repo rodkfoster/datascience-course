@@ -2,14 +2,12 @@
 
 > Welcome to Data Science!
 
-1. [Master Schedule](#master)
-2. [Course Overview](#course)
-3. [Your Team](#team)
-4. [Projects](#projects)
-5. [Tech Requirements](#tech)
-6. [Student Expectations](#expectations)
-7. [Python Practice Resources](#practice)
-8. [Additional Resources](#resources)
+1. [Course Overview](#course)
+2. [Projects](#projects)
+3. [Tech Requirements](#tech)
+4. [Student Expectations](#expectations)
+5. [Python Practice Resources](#practice)
+6. [Additional Resources](#resources)
 
 
 ## Helpful Links
